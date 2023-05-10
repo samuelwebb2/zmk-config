@@ -1,0 +1,6 @@
+if SHIELD_VOID9
+
+config ZMK_KEYBOARD_NAME
+    default "void9"
+
+endif
