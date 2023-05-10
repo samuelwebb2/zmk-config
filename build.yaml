@@ -14,4 +14,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: void9-test
+    shield: void9test
